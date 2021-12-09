@@ -2,8 +2,11 @@
  3ª Lista de atividades da disciplina de Shell Script
 
 IFPB PS 2021.2 Lista 3
+
 Vale 50 Pontos
+
 Entregar o Link do github
+
 1 - Escreva um script que use o comando tr para substituir todos os números em um
 arquivo por caracteres ‘X’.
 
